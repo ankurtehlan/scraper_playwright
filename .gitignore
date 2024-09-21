@@ -1,0 +1,5 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore images directory (optional, if you don't want to upload images)
+images/
